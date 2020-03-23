@@ -9,9 +9,13 @@
     <title>Restaurant</title>
 </head>
 <body>
-    <div class="row">
-    <h1> Hello World! </h1>
+    <header>
+    <div class="hero-text-box">
+    <h1> Goodbye junk food. Hello super healthy meals. </h1>
+    <a href="#">I'm hungry</a>
+    <a href="#">Show me more</a>
     </div>
+</header>
 
 </body>
 </html>
